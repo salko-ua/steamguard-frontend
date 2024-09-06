@@ -16,3 +16,5 @@
   <a href="https://salko-ua.de/credits">Credits</a> •
   <a href="https://t.me/salkooua">Need Help?</a> 
 </p>
+
+# Install
